@@ -307,3 +307,7 @@
 2022-08-05 13:43:13,690 [main] INFO SwaglabAutomation - zip added
 2022-08-05 13:43:13,762 [main] INFO SwaglabAutomation - click on continue
 2022-08-05 13:43:13,841 [main] INFO SwaglabAutomation - click on finish
+2022-08-08 10:53:45,675 [main] INFO SwaglabAutomation - driver launch
+2022-08-08 10:53:45,954 [main] INFO SwaglabAutomation - user name added
+2022-08-08 10:53:46,186 [main] INFO SwaglabAutomation - password added
+2022-08-08 10:53:46,524 [main] INFO SwaglabAutomation - click on login

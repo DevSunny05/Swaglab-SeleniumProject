@@ -1,5 +1,6 @@
 package com.swaglab.testCases;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.swaglab.pageObject.LoginPage;
@@ -19,6 +20,7 @@ public class TC_LoginTest_001 extends BaseClass {
 		logger.info("password added");
 		lp.clickLogin();
 		logger.info("click on login");
+		Assert.assertTrue(true);
 		
 	}
 
