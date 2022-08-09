@@ -1,5 +1,6 @@
 package com.swaglab.testCases;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.swaglab.pageObject.HomePage;
@@ -27,6 +28,8 @@ public class TC_HomePageTest_002 extends BaseClass {
 		logger.info("click on add to cark");
 		hp.clickShoppingcart();
 		logger.info("click on shopping cart");
+		
+		Assert.assertTrue(true);
 		
 		
 	}

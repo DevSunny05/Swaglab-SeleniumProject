@@ -311,3 +311,9 @@
 2022-08-08 10:53:45,954 [main] INFO SwaglabAutomation - user name added
 2022-08-08 10:53:46,186 [main] INFO SwaglabAutomation - password added
 2022-08-08 10:53:46,524 [main] INFO SwaglabAutomation - click on login
+2022-08-09 20:16:39,152 [main] INFO SwaglabAutomation - driver launch
+2022-08-09 20:16:39,416 [main] INFO SwaglabAutomation - user name added
+2022-08-09 20:16:39,556 [main] INFO SwaglabAutomation - password added
+2022-08-09 20:16:39,795 [main] INFO SwaglabAutomation - click on login
+2022-08-09 20:16:40,028 [main] INFO SwaglabAutomation - click on add to cark
+2022-08-09 20:16:40,253 [main] INFO SwaglabAutomation - click on shopping cart
